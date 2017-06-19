@@ -1,0 +1,11 @@
+//find to integer value
+//header file
+#include<stdio.h>
+//main calling function
+main()
+//input variable value
+{
+    int a=30;
+    //printf() display to variable value
+    printf("%d",a);
+}
